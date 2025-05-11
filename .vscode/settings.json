@@ -56,6 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RPG-Udemy_ DeadCells_Imitation.sln",
+    "dotnet.defaultSolution": "RPG-Udemy-DeadCells-Imitation.sln",
     "dotnet.preferCSharpExtension": true
 }
